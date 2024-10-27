@@ -1,3 +1,9 @@
 # Compiled source #
 ###################
 *.user
+
+*.lib
+*.exp
+*.exe
+
+build
